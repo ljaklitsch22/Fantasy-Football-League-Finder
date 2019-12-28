@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "F2514BB1-D5F1-423A-BB17-927D095B930F"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "59AB9FF9-5066-4505-9082-BBDE6044CBF1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FFLF/LeagueFinder.swift"
+            timestampString = "584332493.385166"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "182"
+            endingLineNumber = "182"
+            landmarkName = "LeagueFinder"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "59AB9FF9-5066-4505-9082-BBDE6044CBF1 - f7f84ff9b52dd342"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Fantasy_Football_League_Finder.LeagueFinder.display.getter : Swift.Optional&lt;__C.UITableView&gt;"
+                  moduleName = "Fantasy Football League Finder"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lukas/Desktop/FFLF/FFLF/LeagueFinder.swift"
+                  timestampString = "583116463.616575"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
+                  offsetFromSymbolStart = "86">
+               </Location>
+               <Location
+                  uuid = "59AB9FF9-5066-4505-9082-BBDE6044CBF1 - 95b3b5fcec6f075e"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Fantasy_Football_League_Finder.LeagueFinder.display.setter : Swift.Optional&lt;__C.UITableView&gt;"
+                  moduleName = "Fantasy Football League Finder"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lukas/Desktop/FFLF/FFLF/LeagueFinder.swift"
+                  timestampString = "583116463.618645"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
+                  offsetFromSymbolStart = "106">
+               </Location>
+               <Location
+                  uuid = "59AB9FF9-5066-4505-9082-BBDE6044CBF1 - 4cc94665ea51784f"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Fantasy_Football_League_Finder.LeagueFinder.display.modify : Swift.Optional&lt;__C.UITableView&gt;"
+                  moduleName = "Fantasy Football League Finder"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lukas/Desktop/FFLF/FFLF/LeagueFinder.swift"
+                  timestampString = "583116463.620542"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "69">
+               </Location>
+               <Location
+                  uuid = "59AB9FF9-5066-4505-9082-BBDE6044CBF1 - 9a0313d735bdf029"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Fantasy_Football_League_Finder.LeagueFinder.display.modify : Swift.Optional&lt;__C.UITableView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Fantasy Football League Finder"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lukas/Desktop/FFLF/FFLF/LeagueFinder.swift"
+                  timestampString = "583116463.62264"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  uuid = "59AB9FF9-5066-4505-9082-BBDE6044CBF1 - 77e0fb23dadd9576"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Fantasy_Football_League_Finder.LeagueFinder.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Fantasy_Football_League_Finder.LeagueFinder"
+                  moduleName = "Fantasy Football League Finder"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lukas/Desktop/FFLF/FFLF/LeagueFinder.swift"
+                  timestampString = "583116463.624545"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
+                  offsetFromSymbolStart = "928">
+               </Location>
+               <Location
+                  uuid = "59AB9FF9-5066-4505-9082-BBDE6044CBF1 - e85161635c3b0d2d"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Fantasy_Football_League_Finder.LeagueFinder.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Fantasy_Football_League_Finder.LeagueFinder&gt;"
+                  moduleName = "Fantasy Football League Finder"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lukas/Desktop/FFLF/FFLF/LeagueFinder.swift"
+                  timestampString = "583116463.627144"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
+                  offsetFromSymbolStart = "842">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D180F021-A67E-4DAF-83FC-1FC7BAD0BD68"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FFLF/LeagueFinder.swift"
+            timestampString = "584332493.385581"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "63"
+            endingLineNumber = "63"
+            landmarkName = "tableView(_:numberOfRowsInSection:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "046BC08C-CF7C-494C-88B6-DFDBCE997838"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FFLF/LeagueFinder.swift"
+            timestampString = "584332493.3858629"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "69"
+            endingLineNumber = "69"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6965FC8F-D016-46F9-876C-B185362FDF3F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FFLF/LeagueFinder.swift"
+            timestampString = "584332493.386291"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "118"
+            endingLineNumber = "118"
+            landmarkName = "getResults()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7DC8955B-18A5-420E-8242-A16AE2EEA4B8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FFLF/LeagueFinder.swift"
+            timestampString = "584332493.386716"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "186"
+            endingLineNumber = "186"
+            landmarkName = "search(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1E1721B9-A640-4316-BE73-D258F354802D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FFLF/LeagueFinder.swift"
+            timestampString = "584332493.387104"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "152"
+            endingLineNumber = "152"
+            landmarkName = "getResults()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2C7C5AFD-E5CB-42F5-9246-74F64C8FF253"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FFLF/LeagueFinder.swift"
+            timestampString = "584332493.387539"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "138"
+            endingLineNumber = "138"
+            landmarkName = "getResults()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D6ACA05F-17BA-4101-AC8C-530915350C44"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FFLF/LeagueOwnerPost.swift"
+            timestampString = "584332493.387872"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "64"
+            endingLineNumber = "64"
+            landmarkName = "dateTextBox(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A208574F-7D93-454E-B9F8-8278A35092A4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FFLF/League_List.swift"
+            timestampString = "584332493.387926"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "filter(ppr:numTeams:user_minCost:user_maxCost:numQB:scoringType:draftType:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "74AF9DF7-98CE-4E50-91D0-6C8DFA33606C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FFLF/LeagueFinder.swift"
+            timestampString = "584332493.388288"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "165"
+            endingLineNumber = "165"
+            landmarkName = "getResults()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "841E2F38-8887-42E2-80F1-B10980565698"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FFLF/LeagueFinder.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "148"
+            endingLineNumber = "148"
+            landmarkName = "getResults()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
